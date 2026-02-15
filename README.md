@@ -6,6 +6,12 @@
 
 ## Nim: 2509116108
 
+# link Google colab
+https://colab.research.google.com/drive/1vaMMlabDpsCrxh2wbMTplJX4btFzjI2X?usp=sharing
+
+#  Business Understanding
+<img width="1222" height="193" alt="Screenshot 2026-02-15 204518" src="https://github.com/user-attachments/assets/3c21bd54-1dc1-4d6f-8a91-078e6485d1e9" />
+
 # Business Objective
 <img width="757" height="122" alt="image" src="https://github.com/user-attachments/assets/202fcea6-e78f-4625-8e9e-3fc8af4f6468" />
 
